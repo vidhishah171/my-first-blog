@@ -30,6 +30,26 @@ h1, h2, h3, h4 {
 
 .save {
     float: right;
+    padding-bottom: 40px;
+    padding-top: -10px;
+    width: 300px;
+    height: 80px;
+    font-size: 22px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 70px;
+    background-image: linear-gradient(to bottom right, #ec008c, #fc6767);
+    color: white;
+}
+
+button:hover{
+	background-image: linear-gradient(to bottom right, #cc2b5e, #753a88);
+	color: white;
+	
+}
+
+.edit{
+	float: right;
 }
 
 .post-form textarea, .post-form input {
