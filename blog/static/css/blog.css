@@ -7,7 +7,7 @@
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
-    font-size: 2em;
+    font-size: 2.1em;
     text-decoration: none;
     font-family: 'Pacifico', cursive;
 }
@@ -19,7 +19,7 @@
 
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
-    font-size: 2em;
+    font-size: 1.8em;
 }
 
 .date {
@@ -61,6 +61,7 @@ h1, h2, h3, h4 {
 
 .col-sm-12{
 	width: 100%;
-	font-size: 27px;
+	font-size: 30px;
+	color: #625f5f;
 	font-family: 'Satisfy', cursive;
 }
